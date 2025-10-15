@@ -107,13 +107,9 @@ tooltip label {
 #custom-screenrecording-indicator.active {
   color: #a55555;
 }
-
-#custom-media {
+#mpris {
   margin-left: 5px;
-  min-width: 12px;
-  padding-right: 8px;
 }
-
 
 /* Fix Omarchy icon clipping on the left edge */
 .modules-left {
